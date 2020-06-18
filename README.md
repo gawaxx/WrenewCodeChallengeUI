@@ -27,3 +27,5 @@ Fork this repo, clone it and run 'npm install' then 'npm start', it should open 
 Create the CSS files
 
 And share it back with us.
+
+Good luck!
