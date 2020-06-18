@@ -20,7 +20,6 @@ All you need to do is write the css for it.
 
 [full_demo]: ./public/full_demo.gif "Full demo"
 
-
 # What to do
 
 Fork this repo and start working on the code, share the repo link with us when you are done. 
