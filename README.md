@@ -22,4 +22,8 @@ All you need to do is write the css for it.
 
 # What to do
 
-Fork this repo and start working on the code, share the repo link with us when you are done. 
+Fork this repo, clone it and run 'npm install' then 'npm start', it should open on port 3000.
+
+Create the CSS files
+
+And share it back with us.
